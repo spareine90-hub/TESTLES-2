@@ -21,7 +21,13 @@ import { vertexAI } from '@genkit-ai/vertexai';
 // Your web app's Firebase configuration
 const firebaseConfig = {
   // ...
-  projectId: 'REPLACE_WITH_YOUR_PROJECT_ID',
+  projectId: 'testles-2',
+  apiKey: "AIzaSyAFKmrcy9lzjfrtXzzFlSzIgTK2gvgAf8k",
+  authDomain: "testles-2.firebaseapp.com",
+  storageBucket: "testles-2.firebasestorage.app",
+  messagingSenderId: "667961503053",
+  appId: "1:667961503053:web:861e4bb115ef182c47db04",
+  measurementId: "G-EQLHHS9E02",
   // ...
 };
 
